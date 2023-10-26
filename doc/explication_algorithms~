@@ -1,2 +1,10 @@
 1 - removeDuplicates ;	
 The first algorithms my programing, i was understand probleming, one solution for running array and verifation position a position, else search number of string with implementation iteration of one variable, in define "k" basic counter, after satisfact loops return value of "K", counter is a sum in the respective search in algorithms in remove duplicates.
+
+2 - removeElement ;
+
+This functios search parameters of value, equals positions of index, decrement Newsizem
+, after this  create variable "J", will receive variable "i (index)", with more loops for satisfact the
+ "J" always less newSize, what "J" na position receive a new position for the (j+ 1), after it implementacao of plusplus
+in "J"; with it conditions is a while, minusminus of the "I" index", take a positions equals val and remove
+this element what is searching array of int;
