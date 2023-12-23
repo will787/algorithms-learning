@@ -8,3 +8,6 @@ This functios search parameters of value, equals positions of index, decrement N
  "J" always less newSize, what "J" na position receive a new position for the (j+ 1), after it implementacao of plusplus
 in "J"; with it conditions is a while, minusminus of the "I" index", take a positions equals val and remove
 this element what is searching array of int;
+
+
+3 - LongestCommonPrefix, the algorithm compare multiple string, with delimiters of chars paramaters singularity respective string, strsSize how fall will it compare in the string chain and return. Em progress[...];
