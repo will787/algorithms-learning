@@ -11,3 +11,5 @@ this element what is searching array of int;
 
 
 3 - LongestCommonPrefix, the algorithm compare multiple string, with delimiters of chars paramaters singularity respective string, strsSize how fall will it compare in the string chain and return. Em progress[...];
+
+4 - revString, concepts of reverse string in index level, where reverse delimiter by user..
